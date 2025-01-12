@@ -1,6 +1,6 @@
 @ECHO OFF
 echo ***www.github.com/mondomata**************************************************************************************************
-echo Automatikus Microsoft Office 2024 install 
+echo Automatikus Microsoft Office 2024 install 64bit-es Windows 10,11-re
 echo (CSAK MAGYAR NYELVU WORD, EXCEL, POWERPOINT) ONLY HUNGARIAN LANGUAGE!
 echo **********************************************************************************************************************
 echo -----------------------------------------------------------
@@ -25,3 +25,4 @@ mkdir C:\Office\
 copy OfficeSetup.exe c:\Office\
 copy configWordExcelPowerpointHUN.xml c:\Office\
 C:\Office\OfficeSetup.exe /configure C:\Office\configWordExcelPowerpointHUN.xml
+echo Bezarhatod ezt az ablakot. Ha mindent jol csinaltal, az Office telepites kulon ablakban lathato.
