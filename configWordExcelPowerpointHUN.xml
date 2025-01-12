@@ -1,3 +1,28 @@
+<Configuration>
+
+  <Add OfficeClientEdition="64" Branch="Current">
+    <Product ID="ProPlusRetail">
+      <Language ID="hu-hu" />
+      <ExcludeApp ID="Access" />
+      <ExcludeApp ID="Groove" />
+      <ExcludeApp ID="InfoPath" />
+      <ExcludeApp ID="Lync" />
+      <ExcludeApp ID="OneDrive" />
+      <ExcludeApp ID="Publisher" />
+      <ExcludeApp ID="Project" />
+      <ExcludeApp ID="SharePointDesigner" />
+      <ExcludeApp ID="Outlook" />
+      <ExcludeApp ID="Visio" />
+    </Product>
+  </Add>
+
+  <!--  <Updates Enabled="TRUE" Branch="Current" /> -->
+
+  <!--  <Display Level="None" AcceptEULA="TRUE" />  -->
+
+  <!--  <Property Name="AUTOACTIVATE" Value="1" />  -->
+
+</Configuration>
 <Configuration ID="3bfff400-c07d-4094-a07f-9a12b3f5bced">
   <Add OfficeClientEdition="64" Channel="PerpetualVL2024">
     <Product ID="ProPlus2024Retail" PIDKEY="XJ2XN-FW8RK-P4HMP-DKDBV-GCVGB">
