@@ -17,7 +17,7 @@ echo azonos konyvtarban levo telepito (...exe) es telepites beallito (...xml) fa
 echo Megkezdem az installt/telepitest: ehhez letoltom a Microsofttol a szukseges fajlokat...
 echo Az Office aktivalashoz kesobb hasznald majd ezt a bongeszobol: massgrev.dev
 echo KEZDHETEM? 
-echo NYOMD MEG BARMELYIK GOMBOT AZ AUTOMATIKUS TELEPITES MEGKEZDESHEZ,
+echo NYOMD AZ ENTERT AZ AUTOMATIKUS TELEPITES MEGKEZDESHEZ,
 echo ha megsem vagy kesz a telepitesre, zard be ezt az ablakot a jobb felso sarokban az X-szel...
 echo **********************************************************************************************************************
 PAUSE
