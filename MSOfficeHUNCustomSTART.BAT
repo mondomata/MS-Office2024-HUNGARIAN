@@ -12,7 +12,7 @@ echo https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Pro
 echo FONTOS! EZZEL A PARANCS/BAT FAJLLAL AZONOS KONYVTARBAN LEGYEN A LETOLTOTT OfficeSetup.exe FAJL es az xml fajl is!!!
 echo Ha kesz, nyomj Entert, es folytatjuk a telepitest...
 PAUSE
-echo Bemasolom egy konyvtartba ezzel az eppen futo parancs fajllal 
+echo Bemasolom egy konyvtarba ezzel az eppen futo parancs fajllal 
 echo azonos konyvtarban levo telepito (...exe) es telepites beallito (...xml) fajlt.
 echo Megkezdem az installt/telepitest: ehhez letoltom a Microsofttol a szukseges fajlokat...
 echo Az Office aktivalashoz kesobb hasznald majd ezt a bongeszobol: massgrev.dev
