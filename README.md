@@ -7,7 +7,7 @@ Egszerű, gyors, és sallang mentes Microsoft Office 2024 (alapok: Word, Excel, 
    - MSOfficeHUNCustomSTART.BAT
 2. Kattints rá / indítsd el a MSOfficeHUNCustomSTART.BAT parancs fájlt.
 A parancs fájl a letöltésből elindít egy programot, amin végig menve végeredményként települ a PC-dre 3 program: Word, Excel, Powerpoint 2024-es változata.
-Figyelem! A programot aktiválni kell, ha 90 napnál tovább akarod használni, erre itt találsz jó leírást:
+Figyelem! A programot aktiválni kell, ha 90 napnál tovább akarod használni, erre itt találsz jó leírást a böngészőn:
 massgrev.dev
 
 Jó szórakozást, sok örömöt a programhoz...
