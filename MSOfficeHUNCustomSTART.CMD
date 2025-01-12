@@ -6,7 +6,7 @@ echo ***********************************************************************
 echo ---------------------------------------
 echo EZT OLVASD EL! - KOVETKEZO LEPESEK:
 echo ---------------------------------------
-echo FONTOS! EZZEL A KOTEGELT BAT FAJLLAL AZONOS KONYVTARBAN LEGYEN A LETOLTOTT OfficeSetup.exe FAJL es a config... xml fajl is!!!
+echo FONTOS! EZZEL A CMD FAJLLAL AZONOS KONYVTARBAN LEGYEN A LETOLTOTT OfficeSetup.exe FAJL es a config... xml fajl is!!!
 echo Ha kesz, nyomj Entert, es folytatjuk a telepitest...
 PAUSE
 echo Bemasolom egy konyvtarba ezzel az eppen futo parancs fajllal 
