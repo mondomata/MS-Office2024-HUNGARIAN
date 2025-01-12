@@ -1,8 +1,8 @@
 @ECHO OFF
-echo ***www.github.com/mondomata********************************************
+echo www.github.com/mondomata:::::ONLY HUNGARIAN LANG::::::::::::::::::::
 echo Automatikus Microsoft Office 2024 install 64bit-es Windows 10,11-re
-echo (CSAK MAGYAR NYELVU WORD, EXCEL, POWERPOINT) ONLY HUNGARIAN LANGUAGE!
-echo ***********************************************************************
+echo (CSAK MAGYAR NYELVU WORD, EXCEL, POWERPOINT)
+echo ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 echo FONTOS:
 echo -------
 echo ELLENORIZD: A MSOfficeHUNCustomSTART.CMD fajllal azonos konytarban legyenek:
@@ -10,7 +10,9 @@ echo OfficeSetup.exe es configWordExcelPowerpointHUN.xml.
 echo Ha kesz, nyomj Entert, es folytatjhatjuk...
 PAUSE
 mkdir C:\Office\
-copy OfficeSetup.exe, configWordExcelPowerpointHUN.xml c:\Office\
+copy OfficeSetup.exe c:\Office\
+copy configWordExcelPowerpointHUN.xml c:\Office\
+echo 2 file masolva a c:\Office subdirectory-ba.
 echo Most kiadom a Windowsnak a parancsot, hogy a telepito es a telepites beallito fajl 
 echo segitsegevel kezdje meg az Office csomag telepitest.
 echo (Aktivalashoz kesobb hasznalhatod majd ezt a bongeszobol: massgrev.dev)
