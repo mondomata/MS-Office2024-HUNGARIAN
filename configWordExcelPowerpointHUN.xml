@@ -8,6 +8,10 @@
       <ExcludeApp ID="OneDrive" />    
   </Product>
  </Add>
-<Updates Enabled="TRUE" />
-<Display Level="Full" AcceptEULA="TRUE" />
+<Property Value="0" Name="SharedComputerLicensing"/>
+<Property Value="FALSE" Name="FORCEAPPSHUTDOWN"/>
+<Property Value="0" Name="DeviceBasedLicensing"/>
+<Property Value="0" Name="SCLCacheOverride"/>
+<Property Value="1" Name="AUTOACTIVATE"/>
+<Updates Enabled="FALSE"/> <!-- OR TRUE --y
 </Configuration>
