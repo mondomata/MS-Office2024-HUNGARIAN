@@ -2,8 +2,7 @@
 
 Egszerű, gyors, és sallang mentes Microsoft Office 2024 (alapok: Word, Excel, Powerpoint) telepítés, magyar nyelv csomaggal. Windows 10 vagy 11-re
 1. Töltsd le (ugyanabba a könyvtáradba a PC-n) ezt a 3 fájlt:
-   - OfficeSetup.zip (https://drive.google.com/file/d/1APd1wnodMhfYTalskhkrcihHfXEujJ09/view?usp=drive_link :ezt letöltés után BONTSD KI!!!, és kapsz egy OfficeSetup.exe fájlt)
-     VAGY a Microsoft közvetlen webhelyéről is letölthető az OfficeSetup.exe innen:
+   - OfficeSetup.exe a Microsoft közvetlen webhelyéről letölthető innen:
      https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProPlus2024Retail&platform=x64&language=hu-hu&version=O16GA
    - ConfigWordExcelPowerpointHUN.xml
    - MSOfficeHUNCustomSTART.CMD
