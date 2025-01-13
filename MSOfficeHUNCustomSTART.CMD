@@ -15,7 +15,7 @@ copy configWordExcelPowerpointHUN.xml c:\Office\
 echo 2 file masolva a c:\Office subdirectory-ba.
 echo Most kiadom a Windowsnak a parancsot, hogy a telepito es a telepites beallito fajl 
 echo segitsegevel kezdje meg az Office csomag telepitest.
-echo (Aktivalashoz kesobb hasznalhatod majd ezt a bongeszobol: massgrev.dev)
+echo (Aktivalashoz kesobb hasznalhatod majd ezt a bongeszobol: massgrave.dev)
 echo KEZDHETEM? 
 echo NYOMD AZ ENTERT AZ AUTOMATIKUS TELEPITES MEGKEZDESHEZ,
 echo ha megsem vagy kesz a telepitesre, zard be ezt az ablakot a jobb felso sarokban az X-szel...
