@@ -10,12 +10,10 @@ Egszerű, gyors, és sallang mentes Microsoft Office 2024 (alapok: Word, Excel, 
 A parancs fájl a letöltésből elindít egy programot, amin végig menve végeredményként települ a PC-dre 3 program: Word, Excel, Powerpoint 2024-es változata.
 <i>Figyelem! A programot aktiválni kell, ha 7 napnál tovább akarod használni, erre itt találsz jó leírást a böngészőn:
 https://massgrave.dev
-de a legfontosabb részlet ide másolva a massgrave.dev-ről:</i>
+de a lényeg ide másolva (magyarra fordítva) a massgrave.dev-ről:</i>
 
 " MAS
- ...Hogyan kell használni?
- 1. módszer – PowerShell (Windows 8 és újabb) ❤️
-...
+ ...
  Nyissa meg a PowerShellt (nem CMD-t).  Ehhez kattintson a jobb gombbal a Windows Start menüjére, és válassza a PowerShell vagy a Terminál lehetőséget.
  Másolja ki és illessze be az alábbi kódot, majd nyomja meg az enter billentyűt
 
