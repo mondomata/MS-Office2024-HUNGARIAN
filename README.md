@@ -19,7 +19,7 @@ de a lényeg ide másolva (magyarra fordítva) a massgrave.dev-ről:</i>
 
 <b><code>irm https://get.activated.win |  iex</code></b>
 
- Látni fogja az aktiválási lehetőségeket.  Válassza az [1] HWID lehetőséget a Windows aktiválásához.  Válassza az [2] Ohook lehetőséget az Office aktiválásához.
+ Látni fogja az aktiválási lehetőségeket.  Válassza az [1] HWID lehetőséget a Windows aktiválásához.  <b>Válassza az [2] Ohook lehetőséget az Office aktiválásához</b>.
  Ez minden"
 
 Jó szórakozást, sok örömöt a programhoz...
