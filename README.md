@@ -19,7 +19,7 @@ de a legfontosabb részlet ide másolva a massgrave.dev-ről:
  Nyissa meg a PowerShellt (nem CMD-t).  Ehhez kattintson a jobb gombbal a Windows Start menüjére, és válassza a PowerShell vagy a Terminál lehetőséget.
  Másolja ki és illessze be az alábbi kódot, majd nyomja meg az enter billentyűt
 
-<big><big><b><code>irm https://get.activated.win |  iex</code></b></big></big>
+<span style='font-size:20px'><b><code>irm https://get.activated.win |  iex</code></b></span>
 
  Látni fogja az aktiválási lehetőségeket.  Válassza az [1] HWID lehetőséget a Windows aktiválásához.  Válassza az [2] Ohook lehetőséget az Office aktiválásához.
  Ez minden"
