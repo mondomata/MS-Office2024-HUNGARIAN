@@ -12,7 +12,7 @@ Töltsd le <b>ugyanabba a könyvtáradba a PC-n(pl. Letöltések, Dokumentumok, 
 
 Kattints rá / indítsd el a gépedre töltött MSOfficeHUNCustomSTART.CMD parancs fájlt.
 
-A parancs fájl a letöltésekből elindít egy programot, amin végig menve végeredményként települ a PC-dre 3 program: Word, Excel, Powerpoint.
+A parancs fájl a  fenti letöltésekből elindít egy programot, amin végig menve végeredményként települ a PC-dre 3 program: Word, Excel, Powerpoint.
 
 Kész vagy.
 
