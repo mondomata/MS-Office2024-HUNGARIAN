@@ -10,7 +10,7 @@ Töltsd le <b>ugyanabba a könyvtáradba a PC-n(pl. Letöltések, Dokumentumok, 
   
 - <a href="https://github.com/mondomata/MS-Office2024-HUNGARIAN/blob/main/configWordExcelPowerpointHUN.xml" target="_blank" download><code>MSOfficeHUNCustomSTART.CMD</code></a>, ez a parancs fájl, ami végrehajtja a telepítést a megfelelő módon konfigurálva az Office-t a gépeden)
 
-Kattints rá / indítsd el a gépeden a MSOfficeHUNCustomSTART.CMD parancs fájlt.
+Kattints rá / indítsd el a gépedre töltött MSOfficeHUNCustomSTART.CMD parancs fájlt.
 
 A parancs fájl a letöltésekből elindít egy programot, amin végig menve végeredményként települ a PC-dre 3 program: Word, Excel, Powerpoint.
 
