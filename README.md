@@ -4,7 +4,7 @@ Egszerű, gyors, és sallang mentes Microsoft Office Pro Plus 2024 (alapok: Word
 Töltsd le <b>ugyanabba a könyvtáradba a PC-n(pl. Letöltések, Dokumentumok, Asztal, stb)</b> ezt a 3 fájlt:
 
 - <a href="https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProPlus2024Retail&platform=x64&language=hu-hu&version=O16GA" target="_blank">
-   OfficeSetup.exe</a>   (ez a Microsoft Office Pro Plus 2024 telepítője), rá klikkelve letölthető.
+   OfficeSetup.exe</a>   (ez a Microsoft Office Pro Plus 2024 telepítője), rá klikkelve letölthető a Microsoft webhelyéről.
      
 - <code>ConfigWordExcelPowerpointHUN.xml</code> (innen a githubról, ez a telepítés beállító, ami azért felel, hogy magyar nyelven, és sallang mentesen, csak a Word, Excel, Powerpoint legyen telepítve)
   
