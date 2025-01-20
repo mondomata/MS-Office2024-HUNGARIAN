@@ -13,7 +13,7 @@ A parancs fájl a letöltésből elindít egy programot, amin végig menve vége
 
   A programot aktiválni kell, ha 7 napnál tovább akarod használni, erre itt találsz jó leírást a böngészőn:
 https://massgrave.dev
-de a lényeg ide másolva (magyarra fordítva) a massgrave.dev-ről:</i>
+de a lényeg ide másolva (magyarra fordítva, ami alapján akár innen elvégezheted az aktiválást :) :</i>
 
 " MAS
  ...
