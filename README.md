@@ -14,7 +14,7 @@ Kattints rá / indítsd el a gépedre töltött MSOfficeHUNCustomSTART.CMD paran
 
 A parancs fájl a  fenti letöltésekből elindít egy programot, amin végig menve végeredményként települ a PC-dre 3 program: Word, Excel, Powerpoint.
 
-Kész vagy.
+Kész vagy. &#128513;&#128513;&#128513;
 
 <i>Figyelem! Az Office programok valamelyikének (Word,Excel,Ppoint) legelső megnyitásakor a) el kell fogadni a Microsoft licensz szerződést, b) rá kell kattintani az aktiválásra, de kitöltetlenül kell hagyni, majd tovább lépni, ahhoz, hogy a program használható legyen szerkesztésre!
 
