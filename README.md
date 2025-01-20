@@ -8,7 +8,10 @@ Egszerű, gyors, és sallang mentes Microsoft Office 2024 (alapok: Word, Excel, 
    - MSOfficeHUNCustomSTART.CMD (ez a parancs fájl, ami végrehajtja a telepítést a megfelelő módon konfigurálva az Office-t a gépeden)
 2. Kattints rá / indítsd el a MSOfficeHUNCustomSTART.CMD parancs fájlt.
 A parancs fájl a letöltésből elindít egy programot, amin végig menve végeredményként települ a PC-dre 3 program: Word, Excel, Powerpoint.
-<i>Figyelem! A programot aktiválni kell, ha 7 napnál tovább akarod használni, erre itt találsz jó leírást a böngészőn:
+
+<i>Figyelem! Az Office programok valamelyikének (Word,Excel,Ppoint) legelső megnyitásakor a) el kell fogadni a Microsoft licensz szerződést, b) rá kell kattintani az aktiválásra, de kitöltetlenül kell hagyni, majd tovább lépni, ahhoz, hogy a program használható legyen szerkesztésre!
+
+  A programot aktiválni kell, ha 7 napnál tovább akarod használni, erre itt találsz jó leírást a böngészőn:
 https://massgrave.dev
 de a lényeg ide másolva (magyarra fordítva) a massgrave.dev-ről:</i>
 
