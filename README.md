@@ -1,17 +1,18 @@
 # MS-Office2024-HUNGARIAN
 
 Egszerű, gyors, és sallang mentes Microsoft Office Pro Plus 2024 (alapok: Word, Excel, Powerpoint) telepítés, magyar nyelv csomaggal. Alap: 64bit-es Windows 10 vagy 11 (és aktiválási segéd 😜)
-Töltsd le <b>ugyanabba a könyvtáradba a PC-n(pl. Letöltések, Dokumentumok, Asztal, stb)</b> ezt a 3 fájlt:
-<a href="#" onclick="download('https://github.com/mondomata/MS-Office2024-HUNGARIAN/blob/main/configWordExcelPowerpointHUN.xml')" onclick="download('https://github.com/mondomata/MS-Office2024-HUNGARIAN/blob/main/MSOfficeHUNCustomSTART.CMD')" onclick="download('https://github.com/mondomata/MS-Office2024-HUNGARIAN/blob/main/OfficeSetup.exe')">(3 fájl letöltés együtt ide kattintva)</a> 
+Töltsd le <b>ugyanabba a könyvtáradba a PC-n(pl. Letöltések, Asztal, stb)</b> ezt a 3 fájlt:
 
-- <a href="https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProPlus2024Retail&platform=x64&language=hu-hu&version=O16GA" target="_blank">
-   <code>OfficeSetup.exe</code></a>   ez a Microsoft Office Pro Plus 2024 telepítője, rá klikkelve letölthető a Microsoft webhelyéről.
+- <a href="https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProPlus2024Retail&platform=x64&language=hu-hu&version=O16GA" download><code>OfficeSetup.exe</code></a>,
+   ez a Microsoft Office Pro Plus 2024 telepítője, rá klikkelve letölthető a Microsoft webhelyéről (de letölthető erről a webhelyről is, lásd feljebb).
      
-- <a href="https://github.com/mondomata/MS-Office2024-HUNGARIAN/blob/main/configWordExcelPowerpointHUN.xml" target="_blank" download><code>ConfigWordExcelPowerpointHUN.xml</code></a>, ez a telepítés beállító, ami azért felel, hogy magyar nyelven, és sallang mentesen, csak a Word, Excel, Powerpoint legyen telepítve.
+- <a href="https://github.com/mondomata/MS-Office2024-HUNGARIAN/blob/main/configWordExcelPowerpointHUN.xml" download><code>ConfigWordExcelPowerpointHUN.xml</code></a>,
+  ez a telepítés beállító, ami azért felel, hogy magyar nyelven, és sallang mentesen, csak a Word, Excel, Powerpoint legyen telepítve.
 
-- <a href="https://github.com/mondomata/MS-Office2024-HUNGARIAN/blob/main/MSOfficeHUNCustomSTART.CMD" target="_blank" download>  <code>MSOfficeHUNCustomSTART.CMD</code></a>, ez a parancs fájl, ami végrehajtja a telepítést a megfelelő módon konfigurálva az Office-t a gépeden.
+- <a href="https://github.com/mondomata/MS-Office2024-HUNGARIAN/blob/main/MSOfficeHUNCustomSTART.CMD" download><code>MSOfficeHUNCustomSTART.CMD</code></a>,
+  ez a parancs fájl, ami végrehajtja a telepítést a megfelelő módon konfigurálva az Office-t a gépeden.
 
-Kattints rá / indítsd el a gépedre töltött MSOfficeHUNCustomSTART.CMD parancs fájlt.
+Rákattintva indítsd el a gépedre töltött MSOfficeHUNCustomSTART.CMD parancs fájlt.
 
 A parancs fájl a  fenti letöltésekből elindít egy programot, amin végig menve végeredményként települ a PC-dre 3 program: Word, Excel, Powerpoint.
 
