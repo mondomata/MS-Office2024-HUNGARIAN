@@ -12,11 +12,11 @@ Töltsd le <b>ugyanabba a könyvtáradba a PC-n(pl. Letöltések)</b> ezt a 3 f�
 - <a download href="MSOfficeHUNCustomSTART.CMD"><tt>3. MSOfficeHUNCustomSTART.CMD</tt></a>,
   ez a parancs fájl, ami végrehajtja a telepítést a megfelelő módon konfigurálva az Office-t a gépeden.
 
-- 4. Rákattintva indítsd el a gépedre töltött <b>MSOfficeHUNCustomSTART.CMD</b> parancs fájlt.
+Rákattintva indítsd el a gépedre töltött <b>MSOfficeHUNCustomSTART.CMD</b> parancs fájlt.
 
 A parancs fájl a  fenti letöltésekből elindít egy folyamatot, végeredményeként települ a PC-dre 3 program: Word, Excel, Powerpoint.
 
-Kész vagy. &#128513;&#128513;&#128513;
+Ez minden. Kész vagy. &#128513;&#128513;&#128513;
 
 &#128294;&#128294;&#128294;<i>Figyelem! Az Office programok valamelyikének (Word,Excel,Ppoint) legelső megnyitásakor a) el kell fogadni a Microsoft licensz szerződést, b) rá kell kattintani az aktiválásra, de kitöltetlenül kell hagyni a kód helyét, majd tovább lépni, ahhoz, hogy a program használható legyen szerkesztésre! A programot aktiválni kell, ha 7 napnál tovább akarod használni, erre itt találsz jó leírást a böngészőn:
 https://massgrave.dev
