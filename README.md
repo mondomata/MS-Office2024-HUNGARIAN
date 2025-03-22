@@ -18,12 +18,9 @@ A parancs fájl a  fenti letöltésekből elindít egy folyamatot, végeredmény
 
 Kész vagy. &#128513;&#128513;&#128513;
 
-&#128294;&#128294;&#128294;<i>Figyelem! Az Office programok valamelyikének (Word,Excel,Ppoint) legelső megnyitásakor 
-
-a) el kell fogadni a Microsoft licensz szerződést, 
-b) rá kell kattintani az aktiválásra, de kitöltetlenül kell hagyni, majd tovább lépni, ahhoz, hogy a program használható legyen szerkesztésre! A programot aktiválni kell, ha 7 napnál tovább akarod használni, erre itt találsz jó leírást a böngészőn:
+&#128294;&#128294;&#128294;<i>Figyelem! Az Office programok valamelyikének (Word,Excel,Ppoint) legelső megnyitásakor a) el kell fogadni a Microsoft licensz szerződést, b) rá kell kattintani az aktiválásra, de kitöltetlenül kell hagyni, majd tovább lépni, ahhoz, hogy a program használható legyen szerkesztésre! A programot aktiválni kell, ha 7 napnál tovább akarod használni, erre itt találsz jó leírást a böngészőn:
 https://massgrave.dev
-de a lényeg ide másolva (magyarra fordítva, ami alapján akár innen elvégezheted az aktiválást &#128273; :</i>
+de a lényeg ide másolva (magyarra fordítva, ami alapján akár innen elvégezheted az aktiválást &#128273;) :</i>
 
 <quote>" MAS
  ...
