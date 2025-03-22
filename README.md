@@ -6,10 +6,10 @@ Töltsd le <b>ugyanabba a könyvtáradba a PC-n(pl. Letöltések, Asztal, stb)</
 - <a download href="https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProPlus2024Retail&platform=x64&language=hu-hu&version=O16GA"><code>OfficeSetup.exe</code></a>,
    ez a Microsoft Office Pro Plus 2024 telepítője, rá klikkelve letölthető a Microsoft webhelyéről (de letölthető erről a webhelyről is, lásd feljebb).
      
-- <a download href="https://github.com/mondomata/MS-Office2024-HUNGARIAN/blob/main/configWordExcelPowerpointHUN.xml"><code>ConfigWordExcelPowerpointHUN.xml</code></a>,
+- <a download href="configWordExcelPowerpointHUN.xml"><code>ConfigWordExcelPowerpointHUN.xml</code></a>,
   ez a telepítés beállító, ami azért felel, hogy magyar nyelven, és sallang mentesen, csak a Word, Excel, Powerpoint legyen telepítve.
 
-- <a download href="https://github.com/mondomata/MS-Office2024-HUNGARIAN/blob/main/MSOfficeHUNCustomSTART.CMD"><code>MSOfficeHUNCustomSTART.CMD</code></a>,
+- <a download href="MSOfficeHUNCustomSTART.CMD"><code>MSOfficeHUNCustomSTART.CMD</code></a>,
   ez a parancs fájl, ami végrehajtja a telepítést a megfelelő módon konfigurálva az Office-t a gépeden.
 
 Rákattintva indítsd el a gépedre töltött MSOfficeHUNCustomSTART.CMD parancs fájlt.
