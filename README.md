@@ -25,7 +25,7 @@ b) rá kell kattintani az aktiválásra, de kitöltetlenül kell hagyni, majd to
 https://massgrave.dev
 de a lényeg ide másolva (magyarra fordítva, ami alapján akár innen elvégezheted az aktiválást &#128273; :</i>
 
-" MAS
+<quote>" MAS
  ...
  Nyissa meg a PowerShellt (nem CMD-t).  Ehhez kattintson a jobb gombbal a Windows Start menüjére, és válassza a PowerShell vagy a Terminál lehetőséget.
  Másolja ki és illessze be az alábbi kódot, majd nyomja meg az enter billentyűt
@@ -34,5 +34,6 @@ de a lényeg ide másolva (magyarra fordítva, ami alapján akár innen elvégez
 
  Látni fogja az aktiválási lehetőségeket.  Válassza az [1] HWID lehetőséget a Windows aktiválásához.  <b>Válassza az [2] Ohook lehetőséget az Office aktiválásához</b>.
  Ez minden"
+ </quote>
 
 Jó szórakozást, sok örömöt a programhoz...
