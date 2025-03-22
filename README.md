@@ -2,7 +2,7 @@
 
 Egszerű, gyors, és sallang mentes Microsoft Office Pro Plus 2024 (alapok: Word, Excel, Powerpoint) telepítés, magyar nyelv csomaggal. Alap: 64bit-es Windows 10 vagy 11 (és aktiválási segéd 😜)
 Töltsd le <b>ugyanabba a könyvtáradba a PC-n(pl. Letöltések, Dokumentumok, Asztal, stb)</b> ezt a 3 fájlt:
-<a href="#" onclick="download('https://github.com/mondomata/MS-Office2024-HUNGARIAN/blob/main/configWordExcelPowerpointHUN.xml', 'https://github.com/mondomata/MS-Office2024-HUNGARIAN/blob/main/MSOfficeHUNCustomSTART.CMD', 'https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProPlus2024Retail&platform=x64&language=hu-hu&version=O16GA')">(3 letöltés együtt ide kattintva)</a> 
+<a href="#" onclick="download('https://github.com/mondomata/MS-Office2024-HUNGARIAN/blob/main/configWordExcelPowerpointHUN.xml')" onclick="download('https://github.com/mondomata/MS-Office2024-HUNGARIAN/blob/main/MSOfficeHUNCustomSTART.CMD')" onclick="download('https://github.com/mondomata/MS-Office2024-HUNGARIAN/blob/main/OfficeSetup.exe')">(3 fájl letöltés együtt ide kattintva)</a> 
 
 - <a href="https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProPlus2024Retail&platform=x64&language=hu-hu&version=O16GA" target="_blank">
    <code>OfficeSetup.exe</code></a>   ez a Microsoft Office Pro Plus 2024 telepítője, rá klikkelve letölthető a Microsoft webhelyéről.
