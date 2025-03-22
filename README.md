@@ -8,7 +8,7 @@ Töltsd le <b>ugyanabba a könyvtáradba a PC-n(pl. Letöltések, Dokumentumok, 
      
 - <a href="https://github.com/mondomata/MS-Office2024-HUNGARIAN/blob/main/configWordExcelPowerpointHUN.xml" target="_blank" download><code>ConfigWordExcelPowerpointHUN.xml</code></a>, ez a telepítés beállító, ami azért felel, hogy magyar nyelven, és sallang mentesen, csak a Word, Excel, Powerpoint legyen telepítve.
 
-- <a href="https://github.com/mondomata/MS-Office2024-HUNGARIAN/blob/main/configWordExcelPowerpointHUN.xml" target="_blank" download>  <code>MSOfficeHUNCustomSTART.CMD</code></a>, ez a parancs fájl, ami végrehajtja a telepítést a megfelelő módon konfigurálva az Office-t a gépeden.
+- <a href="https://github.com/mondomata/MS-Office2024-HUNGARIAN/blob/main/MSOfficeHUNCustomSTART.CMD" target="_blank" download>  <code>MSOfficeHUNCustomSTART.CMD</code></a>, ez a parancs fájl, ami végrehajtja a telepítést a megfelelő módon konfigurálva az Office-t a gépeden.
 
 Kattints rá / indítsd el a gépedre töltött MSOfficeHUNCustomSTART.CMD parancs fájlt.
 
