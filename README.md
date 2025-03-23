@@ -16,10 +16,9 @@ Rákattintva indítsd el a gépedre letöltött <b>OfficeSTART.CMD</b> parancs f
 
 Kész vagy. &#128513;&#128513;&#128513;
 
-&#128294;&#128294;&#128294;<i>Figyelem, legelső megnyitáskor a) el kell fogadni a Microsoft licensz szerződést, b) rá kell kattintani az aktiválásra, de kitöltetlenül kell hagyni a kód helyét, majd tovább lépni, ahhoz, hogy a program használható legyen szerkesztésre! A programot aktiválni kell, ha 7 napnál tovább akarod használni... &#128273;) :</i>
+&#128294;&#128294;&#128294;<i>Figyelem, legelső megnyitáskor a) el kell fogadni a Microsoft licensz szerződést, b) rá kell kattintani az aktiválásra, de kitöltetlenül kell hagyni a kód helyét, majd tovább lépni, ahhoz, hogy a program használható legyen szerkesztésre! A programot aktiválni kell, ha 7 napnál tovább akarod használni... &#128273;</i>
 Részlet a massgrave.net oldalról:
-<quote>" MAS
- ...
+<quote>"
  Nyissa meg a PowerShellt (nem CMD-t).  Ehhez kattintson a jobb gombbal a Windows Start menüjére, és válassza a PowerShell vagy a Terminál lehetőséget.
  Másolja ki és illessze be az alábbi kódot, majd nyomja meg az enter billentyűt
 
