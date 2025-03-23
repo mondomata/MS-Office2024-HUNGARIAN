@@ -1,4 +1,4 @@
-
+@ECHO OFF
 echo www.github.com/mondomata:::::ONLY HUNGARIAN LANG::::::::::::::::::::
 echo Microsoft Office 2024 install 64bit-es Windows 10,11-re
 echo (MAGYAR NYELVU WORD, EXCEL, POWERPOINT)
