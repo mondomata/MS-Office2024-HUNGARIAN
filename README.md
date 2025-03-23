@@ -10,7 +10,7 @@ Töltsd le <b>ugyanabba a könyvtáradba a PC-n(pl. Letöltések)</b> ezt a 3 f�
   ez a telepítés beállító, ami azért felel, hogy magyar nyelven, és sallang mentesen, csak a Word, Excel, Powerpoint legyen telepítve
 
 - <a download href="MSOfficeHUNCustomSTART.CMD">MSOfficeHUNCustomSTART.CMD</a>
-  ez a parancs fájl, ami végrehajtja a telepítést a megfelelő módon konfigurálva az Office-t a gépeden.
+  ez a parancs fájl, adja ki a megfelelő parancsot a telepítéshez
 
 Rákattintva indítsd el a gépedre letöltött <b>MSOfficeHUNCustomSTART.CMD</b> parancs fájlt.
 
