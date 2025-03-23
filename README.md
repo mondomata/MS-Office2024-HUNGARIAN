@@ -1,6 +1,6 @@
 # OfficeProPlus2024-HUN
 
-Egszerű, gyors, és sallang mentes Word, Excel, Powerpoint telepítés, magyar nyelv csomaggal. Alap: 64bit-es Windows 10 vagy 11 (és aktiválási segéd 😜)
+Egszerű, gyors, és sallang mentes Word, Excel, Powerpoint telepítés, magyar nyelv csomaggal. Windows 10, 11-hez (+ aktiválási segéd 😜).
 Töltsd le <b>ugyanabba a könyvtáradba a PC-n(pl. Letöltések)</b> ezt a 3 fájlt<sub>(a 2.,3. fájlnál keresd a lefelé mutató nyilat a letöltéshez)</sub>:
 
 - <a download href="https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProPlus2024Retail&platform=x64&language=hu-hu&version=O16GA">OfficeSetup.exe</a> 
