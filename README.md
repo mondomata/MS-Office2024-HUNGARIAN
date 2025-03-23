@@ -7,7 +7,7 @@ Töltsd le <b>1 könyvtárba a PC-n(pl. Letöltések)</b> ezt a 3 fájlt<sub>(a 
      
 - <a download href="configWordExcelPowerpointHUN.xml">ConfigWordExcelPowerpointHUN.xml</a> <sup>(kizárólag az itt javasolt OfficeSetup.exe-vel működik)</sup> telepítés konfigurátor
 
-- <a download href="OfficeSTART.CMD"></a> parancs fájl, kiadja a megfelelő parancsot a telepítéshez
+- <a download href="OfficeSTART.CMD">OfficeSTART.CMD</a> parancs fájl, kiadja a megfelelő parancsot a telepítéshez
 
 Rákattintva indítsd el a gépedre letöltött <b>OfficeSTART.CMD</b> parancs fájlt.
 
