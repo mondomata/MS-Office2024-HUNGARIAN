@@ -26,8 +26,7 @@ Részlet a massgrave.net oldalról:
  Másolja ki és illessze be az alábbi kódot, majd nyomja meg az enter billentyűt
 
 <b><code>irm https://get.activated.win |  iex</code></b>
-
- Látni fogja az aktiválási lehetőségeket.  Válassza az [1] HWID lehetőséget a Windows aktiválásához.  <b>Válassza az [2] Ohook lehetőséget az Office aktiválásához</b>.
+... <b>Válassza az [2] Ohook lehetőséget az Office aktiválásához</b>.
  Ez minden"
  </quote>
 
