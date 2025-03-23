@@ -7,7 +7,7 @@ Töltsd le <b>1 könyvtárba a PC-n(pl. Letöltések)</b> ezt a 3 fájlt<sub>(a 
   ez a Microsoft Office Pro Plus 2024 telepítője, rá klikkelve letölthető a Microsoft hivatalos webhelyéről <sup>(vagy erről a github webhelyről is, lásd feljebb)</sup>
      
 - <a download href="configWordExcelPowerpointHUN.xml">ConfigWordExcelPowerpointHUN.xml</a> <sup>(kizárólag az itt javasolt OfficeSetup.exe-vel működik)</sup> 
-  ez a telepítés beállító, ami azért felel, hogy magyar nyelven, és sallang mentesen, csak a Word, Excel, Powerpoint legyen telepítve
+  ez a telepítés konfigurátor
 
 - <a download href="MSOfficeHUNCustomSTART.CMD">MSOfficeHUNCustomSTART.CMD</a>
   ez a parancs fájl, adja ki a megfelelő parancsot a telepítéshez
