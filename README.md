@@ -1,7 +1,6 @@
 # OfficeProPlus2024-HUN
-<sub>"Haladóknak": kattints a zöld Code - Download ZIP-re, a letöltött zipet csomagold ki es futtasd az OfficeSTART parancs fájlt.<a href="https://github.com/mondomata/MS-Office2024-HUNGARIAN/archive/refs/heads/main.zip">vagy ide katt a letöltésért</a></sub>
-
-Részletek:
+<sub>"Haladóknak": <a href="https://github.com/mondomata/MS-Office2024-HUNGARIAN/archive/refs/heads/main.zip">Ide katt a letöltéshez</a>, majd csomagold ki a letöltött zipet és futtasd az OfficeSTART parancs fájlt. Ennyi.</sub>
+**********
 Egszerű, gyors, és sallang mentes Word, Excel, Powerpoint telepítés, magyar nyelv csomaggal. Windows 10, 11-hez (+ aktiválási segéd 😜).
 Töltsd le <b>1 könyvtárba a PC-n(pl. Letöltések)</b> ezt a 3 fájlt <sup>(a 2.,3. fájlnál keresd a lefelé mutató nyilat a letöltéshez)</sup>:
 
