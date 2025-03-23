@@ -18,10 +18,8 @@ Rákattintva indítsd el a gépedre letöltött <b>MSOfficeHUNCustomSTART.CMD</b
 
 Ez minden. Kész vagy. &#128513;&#128513;&#128513;
 
-&#128294;&#128294;&#128294;<i>Figyelem! Az Office programok valamelyikének (Word,Excel,Ppoint) legelső megnyitásakor a) el kell fogadni a Microsoft licensz szerződést, b) rá kell kattintani az aktiválásra, de kitöltetlenül kell hagyni a kód helyét, majd tovább lépni, ahhoz, hogy a program használható legyen szerkesztésre! A programot aktiválni kell, ha 7 napnál tovább akarod használni, erre itt találsz jó leírást a böngészőn:
-https://massgrave.dev
-de a lényeg ide másolva (magyarra fordítva, ami alapján akár innen elvégezheted az aktiválást &#128273;) :</i>
-
+&#128294;&#128294;&#128294;<i>Figyelem, legelső megnyitáskor a) el kell fogadni a Microsoft licensz szerződést, b) rá kell kattintani az aktiválásra, de kitöltetlenül kell hagyni a kód helyét, majd tovább lépni, ahhoz, hogy a program használható legyen szerkesztésre! A programot aktiválni kell, ha 7 napnál tovább akarod használni... &#128273;) :</i>
+Részlet a massgrave.net oldalról:
 <quote>" MAS
  ...
  Nyissa meg a PowerShellt (nem CMD-t).  Ehhez kattintson a jobb gombbal a Windows Start menüjére, és válassza a PowerShell vagy a Terminál lehetőséget.
