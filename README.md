@@ -5,7 +5,7 @@ Töltsd le <b>1 könyvtárba a PC-n(pl. Letöltések)</b> ezt a 3 fájlt<sub>(a 
 
 - <a download href="https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProPlus2024Retail&platform=x64&language=hu-hu&version=O16GA">OfficeSetup.exe</a> online telepítő készlet <sup>rá klikkelve letölthető a Microsoft hivatalos webhelyéről (vagy erről a github webhelyről is, lásd feljebb)</sup>
      
--ConfigWordExcelPowerpointHUN.xml <sup>(kizárólag az itt javasolt OfficeSetup.exe-vel működik)</sup> telepítés konfigurátor
+- ConfigWordExcelPowerpointHUN.xml <sup>(kizárólag az itt javasolt OfficeSetup.exe-vel működik)</sup> telepítés konfigurátor
 
 - OfficeSTART.CMD parancs fájl, kiadja a megfelelő parancsot a telepítéshez
 
