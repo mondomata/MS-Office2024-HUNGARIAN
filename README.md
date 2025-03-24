@@ -22,7 +22,12 @@ Rákattintva indítsd el a gépedre letöltött <b>OfficeSTART.CMD</b> parancs f
 Kész vagy. &#128513;&#128513;&#128513;
 
 &#128294;&#128294;&#128294;<i>Figyelem, legelső megnyitáskor a) el kell fogadni a Microsoft licensz szerződést, b) rá kell kattintani az aktiválásra, de kitöltetlenül kell hagyni a kód helyét, majd tovább lépni, ahhoz, hogy a program használható legyen szerkesztésre! A programot aktiválni kell, ha 7 napnál tovább akarod használni... &#128273;</i>
-Részlet a massgrave.net oldalról:
+
+🥳 Magyar nyelvű aktivátor:
+
+https://drive.google.com/drive/folders/1m4t_hm1OKsj2OSDKkXJDh3a7ayw1g2iE
+
+Angol nyelvű aktivátor <supr>részlet a massgrave.net oldalról</sup>:
 <quote>"
  Nyissa meg a PowerShellt (nem CMD-t).  Ehhez kattintson a jobb gombbal a Windows Start menüjére, és válassza a PowerShell vagy a Terminál lehetőséget.
  Másolja ki és illessze be az alábbi kódot, majd nyomja meg az enter billentyűt
@@ -31,9 +36,5 @@ Részlet a massgrave.net oldalról:
  <b>Válassza az [2] Ohook lehetőséget az Office aktiválásához</b>.
  Ez minden"
  </quote>
- 
- 🥳Magyar nyelvű aktivátor letölthető változata:
- https://drive.google.com/drive/folders/1m4t_hm1OKsj2OSDKkXJDh3a7ayw1g2iE
- 
 
 Jó szórakozást, sok örömöt a programhoz...
