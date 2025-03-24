@@ -28,5 +28,8 @@ Részlet a massgrave.net oldalról:
  <b>Válassza az [2] Ohook lehetőséget az Office aktiválásához</b>.
  Ez minden"
  </quote>
+ Magyar változata:
+ https://drive.google.com/drive/folders/1m4t_hm1OKsj2OSDKkXJDh3a7ayw1g2iE
+ 
 
 Jó szórakozást, sok örömöt a programhoz...
