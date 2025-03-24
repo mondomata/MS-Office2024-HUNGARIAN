@@ -9,7 +9,7 @@ Töltsd le <b>1 könyvtárba a PC-n(pl. Letöltések)</b> ezt a 3 fájlt <sup>(a
 - <a download href="https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProPlus2024Retail&platform=x64&language=hu-hu&version=O16GA">OfficeSetup.exe</a>
   *online telepítő készlet <sup>rá klikkelve letölthető a Microsoft hivatalos webhelyéről (vagy erről a github webhelyről is, lásd feljebb)</sup>
      
-- <a download href="https://github.com/mondomata/MS-Office2024-HUNGARIAN/blob/main/ConfigWordExcelPowerpointHUN.xml">ConfigWordExcelPowerpointHUN.xml</a>
+- <a download href="https://github.com/mondomata/MS-Office2024-HUNGARIAN/blob/main/configWordExcelPowerpointHUN.xml">ConfigWordExcelPowerpointHUN.xml</a>
   *telepítés konfigurátor <sup>(kizárólag az itt javasolt OfficeSetup.exe-vel működik)</sup> 
 
 - <a download href="https://github.com/mondomata/MS-Office2024-HUNGARIAN/blob/main/OfficeSTART.CMD">OfficeSTART.CMD</a>
