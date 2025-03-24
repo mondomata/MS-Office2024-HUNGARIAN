@@ -1,6 +1,6 @@
 # OfficeProPlus2024-HUN
 "Félig Haladóknak"🙌:
-<a href="https://github.com/mondomata/MS-Office2024-HUNGARIAN/archive/refs/heads/main.zip">Kattints ide: <b>LETÖLTÉS</b> (zip 3,2MB)</a>, majd a Windows Fájlkezelőben kattints jobb gombbal a letöltött zipre, és válaszd a listán az "Összes kibontása" menüpontot. Kattints a kibontott MSOffice2024-Hungarian... mappában az OfficeSTART-ra, telepítés indul... 
+<a href="https://github.com/mondomata/MS-Office2024-HUNGARIAN/archive/refs/heads/main.zip">Kattints ide: <b>LETÖLTÉS</b> (zip 3,2MB)</a>, majd a Windows Fájlkezelőben kattints jobb gombbal a letöltött zipre, és válaszd a listán az "Összes kibontása" menüpontot, okézd le. Kattints a kibontott MSOffice2024-Hungarian... mappában az OfficeSTART-ra, telepítés indul... 
 **********
 "Kezdőknek"😊:
 Egszerű, gyors, és sallang mentes Word, Excel, Powerpoint telepítés, magyar nyelv csomaggal (+ aktiválási segéd 😜).
