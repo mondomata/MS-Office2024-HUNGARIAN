@@ -1,11 +1,11 @@
 @ECHO OFF
 echo www.github.com/mondomata:::::ONLY HUNGARIAN LANG::::::::::::::::::::
 echo Microsoft Office 2024 install 64bit-es Windows 10,11-re
-echo (MAGYAR NYELVU WORD, EXCEL, POWERPOINT)
+echo MAGYAR NYELVU WORD, EXCEL, POWERPOINT
 echo ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-echo ELLENORIZD: Az OfficeSTART.CMD fajllal azonos konyvtarban legyenek:
-echo OfficeSetup.exe es configWordExcelPowerpointHUN.xml
-echo Ha kesz, nyomj Entert, es kezdunk...
+echo !!! Az OfficeSTART.CMD fajllal 1 (azonos) konyvtarban legyenek:
+echo OfficeSetup.exe , configWordExcelPowerpointHUN.xml
+echo Ha kesz, nyomj le egy billentyut es kezdunk...
 echo ____________________________________________________________________
 PAUSE
 OfficeSetup.exe /configure configWordExcelPowerpointHUN.xml
