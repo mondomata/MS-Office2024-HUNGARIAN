@@ -29,7 +29,7 @@ Részlet a massgrave.net oldalról:
  Ez minden"
  </quote>
  
- Magyar nyelvű, letölthető változata:
+ 🥳Magyar nyelvű aktivátor letölthető változata:
  https://drive.google.com/drive/folders/1m4t_hm1OKsj2OSDKkXJDh3a7ayw1g2iE
  
 
