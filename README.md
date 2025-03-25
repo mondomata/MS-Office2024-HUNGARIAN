@@ -23,9 +23,8 @@ Kész vagy. &#128513;&#128513;&#128513;
 
 &#128294;&#128294;&#128294;<i>Figyelem, legelső megnyitáskor a) el kell fogadni a Microsoft licensz szerződést, b) rá kell kattintani az aktiválásra, de kitöltetlenül kell hagyni a kód helyét, majd tovább lépni, ahhoz, hogy a program használható legyen szerkesztésre! <b>A programot aktiválni kell, ha pár napnál tovább akarod használni</b>... &#128273;</i>
 
-🥳 🎁 Magyar nyelvű aktivátor 🆓:
-
-https://drive.google.com/drive/folders/1m4t_hm1OKsj2OSDKkXJDh3a7ayw1g2iE
+🥳 🎁 Magyar nyelvű aktivátor 🆓
+▶️https://drive.google.com/drive/folders/1m4t_hm1OKsj2OSDKkXJDh3a7ayw1g2iE
 
 Angol nyelvű aktivátor 🆓<sup>(a https://massgrave.dev oldalról)</sup>:
 <quote>"
