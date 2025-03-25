@@ -27,7 +27,7 @@ Kész vagy. &#128513;&#128513;&#128513;
 
 https://drive.google.com/drive/folders/1m4t_hm1OKsj2OSDKkXJDh3a7ayw1g2iE
 
-Angol nyelvű aktivátor 🆓<sup>(a https://massgrave.net oldalról)</sup>:
+Angol nyelvű aktivátor 🆓<sup>(a https://massgrave.dev oldalról)</sup>:
 <quote>"
  Nyissa meg a PowerShellt (nem CMD-t).  Ehhez kattintson a jobb gombbal a Windows Start menüjére, és válassza a PowerShell vagy a Terminál lehetőséget.
  Másolja ki és illessze be az alábbi kódot, majd nyomja meg az enter billentyűt
