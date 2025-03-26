@@ -32,7 +32,8 @@ Angol nyelvű aktivátor 🆓<sup>(a https://massgrave.dev oldalról)</sup>:
  Másolja ki és illessze be az alábbi kódot, majd nyomja meg az enter billentyűt
 
 <b><code>irm https://get.activated.win | iex</code></b>
- <b>Válassza az [2] Ohook lehetőséget az Office aktiválásához</b>.
+
+ <b>...Válassza az [2] Ohook lehetőséget az Office aktiválásához</b>.
  Ez minden"
  </quote>
 
