@@ -4,7 +4,7 @@
 **********
 "Kezdőknek"😊
 Gyors, és sallang mentes Word, Excel, Powerpoint telepítés, magyar nyelv csomaggal (+ aktiválási segéd 😜).
-Töltsd le <b>1 könyvtárba a PC-n(pl. Letöltések)</b> ezt a 3 fájlt <sup>(jobb gombbal kattints a fájlnévre és válaszd a Download-ot a letöltéshez)</sup>:
+Töltsd le <b>1 könyvtárba a PC-n(pl. Letöltések)</b> ezt a 3 fájlt <sup><tt>(jobb gombbal kattints a fájlnévre és válaszd a hibatkozás letöltése lehetőséget)</tt></sup>:
 
 - <a download href="https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProPlus2024Retail&platform=x64&language=hu-hu&version=O16GA">OfficeSetup.exe</a>
   *online telepítő készlet <sup>klikk - letöltődik a Microsoft hivatalos webhelyéről (erről a github webhelyről is letölthető, lásd feljebb)</sup>
