@@ -10,7 +10,7 @@ Ennyi🥳
 ▶️https://tinyurl.hu/PHaI
 
 Angol nyelvű aktivátor 🆓<sup>(a https://massgrave.dev oldalról)</sup>:
-<quote>"
+<quote>
  Nyissa meg a PowerShellt (nem CMD-t).  Ehhez kattintson a jobb gombbal a Windows Start menüjére, és válassza a PowerShell vagy a Terminál lehetőséget.
  Másolja ki és illessze be az alábbi kódot, majd nyomja meg az enter billentyűt
 
