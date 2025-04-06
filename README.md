@@ -1,4 +1,6 @@
-# O365-ProPlus-HUN-small
+# Új, frissített verza! O365/Office!
+
+O365-ProPlus-HUN-small
 "Félig Haladóknak és kezdőknek"🙌 Egyszerűbb a pofonnál is👊... Kattints itt a 
 <a href="https://github.com/mondomata/MS-Office2024-HUNGARIAN/archive/refs/heads/main.zip"><code>⬇️LETÖLTÉS</code><sup>(zip 3,2MB)</sup></a>-hez. A Windows 🗂️Fájlkezelőben kattints jobb gombbal ( 🖱️<sub>↖️</sub> ) a letöltött zipre, és válaszd a felugró listán az <tt>👉Összes kibontása</tt> menüpontot, majd a felugró ablakban pedig a <tt>👉Kibontás</tt> gombot. Kattints a kibontott 👉<code>MSOffice2024-Hungarian-main</code> mappában az 👉<code>OfficeSTART</code>-ra, ▶️...Sallangmentes (felesleges programok nélküli) Office Word, Excel, Powerpoint telepítés indul... 
 Ennyi az egész 🥳
