@@ -1,6 +1,6 @@
 @ECHO OFF
 echo www.github.com/mondomata:::ONLY HUNGARIAN LANG::::::::::::::::::::::
-echo Microsoft Office Pro Plus 2024 Retail telepito 64bit-es Windows 10,11-re
+echo Microsoft O365 Pro Plus Retail telepito 64bit-es Windows 10,11-re
 echo MAGYAR NYELVU WORD, EXCEL, POWERPOINT (sallangok nelkul :-)
 echo ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 echo !!! Ezzel a parancs fajllal 1 (azonos) konyvtarban legyenek:
