@@ -14,5 +14,5 @@
 <Property Value="0" Name="DeviceBasedLicensing"/>
 <Property Value="0" Name="SCLCacheOverride"/>
 <!-- <Property Value="1" Name="AUTOACTIVATE"/>  -->
-<Updates Enabled="FALSE"/> <!-- OR TRUE -->
+<Updates Enabled="TRUE"/> <!-- OR FALSE -->
 </Configuration>
