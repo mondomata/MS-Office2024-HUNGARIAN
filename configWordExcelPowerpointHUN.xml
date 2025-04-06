@@ -1,5 +1,5 @@
 <Configuration>
- <Add Channel="Current" OfficeClientEdition="64">
+ <Add Channel="MonthlyEnterprise" OfficeClientEdition="64">
   <Product ID="ProPlus2024Retail">
       <Language ID="hu-hu" />
       <ExcludeApp ID="Access" />
