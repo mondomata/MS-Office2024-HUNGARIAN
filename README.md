@@ -6,7 +6,8 @@ O365-ProPlus-HUN
 Ennyi az egész 🥳
 **********
 
-&#128294;&#128294;&#128294;<i>Figyelem, legelső megnyitáskor a) el kell fogadni a Microsoft licensz szerződést, b) rá kell kattintani az aktiválásra, de kitöltetlenül kell hagyni a kód helyét, majd tovább lépni, ahhoz, hogy a program használható legyen szerkesztésre! <b>A programot aktiválni kell, ha pár napnál tovább akarod használni</b>... &#128273;</i>
+&#128294;&#128294;&#128294;
+<b>A programot aktiválni kell!</b>... &#128273;
 
 🥳 🎁 Magyar nyelvű aktivátor 🆓
 ▶️https://tinyurl.hu/PHaI
