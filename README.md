@@ -1,4 +1,4 @@
-# Új, frissített verzió - O365/Office
+# Új, frissített verzió - O365/Office (csak Word,Excel,Powerpoint!)
 2025.04 O365-ProPlus-HUN
 ![kép](https://github.com/user-attachments/assets/001f2c70-a79b-403f-b348-7c3e1c404cf1)
 
