@@ -12,7 +12,7 @@ Ennyi az egész 🥳
 **********
 
 &#128294;&#128294;&#128294;
-<b>A programot aktiválni kell!</b>... &#128273;
+<b>A programot telepítés után aktiválni kell!</b>... &#128273;
 
 🥳 🎁 Magyar nyelvű aktivátor 🆓
 ▶️https://tinyurl.hu/PHaI
