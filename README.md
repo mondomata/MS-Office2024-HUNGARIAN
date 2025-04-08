@@ -5,7 +5,7 @@
 
 
 "Félig Haladóknak és kezdőknek"🙌 Egyszerűbb a pofonnál is👊... Kattints itt:👉 
-<a href="https://github.com/mondomata/MS-Office2024-HUNGARIAN/archive/refs/heads/main.zip"><tt><b>⬇️ L E T Ö L T É S</b></tt></a>. A Windows 🗂️Fájlkezelőben kattints jobb gombbal ( 🖱️<sub>↖️</sub> ) a letöltött zipre, és válaszd a felugró listán az <tt>👉Összes kibontása</tt> menüpontot, azután a felugró ablakban a <tt>👉Kibontás</tt> gombot. 
+<a href="https://github.com/mondomata/MS-Office2024-HUNGARIAN/archive/refs/heads/main.zip"><b> <tt>⬇️ L E T Ö L T É S</tt></b> </a>. A Windows 🗂️Fájlkezelőben kattints jobb gombbal ( 🖱️<sub>↖️</sub> ) a letöltött zipre, és válaszd a felugró listán az <tt>👉Összes kibontása</tt> menüpontot, azután a felugró ablakban a <tt>👉Kibontás</tt> gombot. 
 
 Kattints a kibontott 👉<tt>MSOffice2024-Hungarian-main</tt> mappában az 👉<tt>OfficeSTART</tt>-ra, 
 
