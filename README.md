@@ -1,7 +1,8 @@
 # Új, frissített verzió - O365/Office <sup>(csak Word,Excel,Powerpoint!)</sup>
 2025.04 O365 Professional Plus - HUN
 
-![kép](https://github.com/user-attachments/assets/3eab9aba-802b-4575-a575-343f75ae9a4d)
+![kép](https://github.com/user-attachments/assets/51579db1-8ef0-4ad6-b9ed-f7b2d3e2800e)
+
 
 
 "Félig Haladóknak és kezdőknek"🙌 Egyszerűbb a pofonnál is👊... Kattints itt:👉 
