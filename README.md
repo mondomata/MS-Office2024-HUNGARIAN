@@ -28,7 +28,7 @@ Ennyi az egész 🥳
 
 Angol nyelvű aktivátor 🆓<sup>(a https://massgrave.dev oldalról)</sup>:
 <quote>
- Nyissa meg a PowerShellt (nem CMD-t).  Ehhez kattintson a jobb gombbal a Windows Start menüjére (vagy nyomja egyszerre a Windows🪟 és X billentyűt), és válassza a PowerShell vagy a Terminál lehetőséget.
+ Nyissa meg a PowerShellt (nem CMD-t).  Ehhez kattintson a jobb gombbal a Windows Start menüjére (vagy nyomja egyszerre a Windows🪟 és X billentyűket), és válassza a PowerShell vagy a Terminál lehetőséget.
  Másolja ki és illessze be az alábbi kódot, majd nyomja meg az enter billentyűt
 
 <b><code>irm https://get.activated.win | iex</code></b>
