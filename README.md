@@ -1,5 +1,5 @@
 # Új, frissített verzió - O365/Office <sup>(csak Word,Excel,Powerpoint!)</sup>
-2025.04 O365-ProPlus-HUN
+2025.04 O365 Professional Plus - HUN
 
 ![1](https://github.com/user-attachments/assets/1f06895b-0ed5-45db-9560-66e7e3ac5fae)
 
