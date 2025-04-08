@@ -28,12 +28,12 @@ Ennyi az egész 🥳
 
 Angol nyelvű aktivátor 🆓<sup>(a https://massgrave.dev oldalról)</sup>:
 <quote>
- Nyissa meg a PowerShellt (nem CMD-t).  Ehhez kattintson a jobb gombbal a Windows Start menüjére (vagy nyomja egyszerre a Windows🪟 és X billentyűket), és válassza a PowerShell vagy a Terminál lehetőséget.
- Másolja ki és illessze be az alábbi kódot, majd nyomja meg az enter billentyűt
+ Nyisd meg a PowerShellt (nem CMD-t).  Ehhez kattints a jobb gombbal a Windows Start menüjére (vagy nyomd egyszerre a Windows🪟 és X billentyűket), és válaszd a PowerShell vagy a Terminál lehetőséget.
+ Másold ki és illeszd be az alábbi kódot, majd nyomj enter billentyűt
 
 <b><code>irm https://get.activated.win | iex</code></b>
 
- <b>...Válassza a [2] Ohook lehetőséget az Office aktiválásához</b>.
+ <b>...Válaszd a [2] Ohook lehetőséget az Office aktiválásához</b>.
  Ez minden"
  </quote>
 
