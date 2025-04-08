@@ -15,6 +15,7 @@ Kattints a kibontott 👉<tt>MSOffice2024-Hungarian-main</tt> mappában az 👉<
 ▶️...Sallangmentes <sub>(felesleges programok,pl.Onenote, Access, Outlook, stb nélküli)</sub> 
 <b>Word, Excel, Powerpoint</b> telepítés indul... 
 Ennyi az egész 🥳
+
 <tt><sup>✒️: a "nagyvállalati" verzió a kiváló támogatottsága miatt szolgált alapul a telepítőkészlethez, a telepített programok használatát ez nem befolyásolja hátrányosan</sup></tt>
 **********
 
