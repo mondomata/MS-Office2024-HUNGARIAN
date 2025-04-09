@@ -10,4 +10,6 @@ echo ____________________________________________________________________
 PAUSE
 OfficeSetup.exe /configure configWordExcelPowerpointHUN.xml
 echo Ha mindent jol csinaltal, az Office telepites kulon ablakban elindult, par perc es kesz...
+echo Mento megoldas:ha valamiert hiba van a telepiteskor, kattints az OfficeSetup.exe-re
+echo (Ez esetben a teljes Office csomag telepul, de utolag egyenkent torolheto, ami nem kell.)
 echo Ezt az ablakot bezarhatod.
