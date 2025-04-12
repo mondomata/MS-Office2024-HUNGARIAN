@@ -4,7 +4,7 @@
 ![{7B4FEBC7-1F56-409D-B3C9-E8805A3A686C}](https://github.com/user-attachments/assets/bcf6fb18-291a-4bf1-93ab-914437da505e)
 
 A legegyszerűbb: letöltöd innen a spéci <tt>OfficeSetup.exe</tt>-t (magyar Word, Excel, Ppoint és Onenote, semmi több!
-<sup>(menekülj a hulladék Onedrive,Outlook,Publisher,Team,stb...-től</sup>) és rákattintva telepíted. (Utána ugorj lejjebb az aktiválás részhez)
+<sup>(menekülj a hulladék Onedrive,Outlook,Publisher,Team,stb...-től</sup>) és rákattintva telepíted. (<tt>Utána ugorj lejjebb az aktiválás részhez</tt>)
 
 "Félig Haladóknak"🙌 Kattints itt:👉 
 <a href="https://github.com/mondomata/MS-Office2024-HUNGARIAN/archive/refs/heads/main.zip"><b><tt>⬇️ LETÖLTÉS</tt></b></a>. A Windows 🗂️Fájlkezelőben kattints jobb gombbal ( 🖱️<sub>↖️</sub> ) a letöltött zipre, és válaszd a felugró listán az <tt>👉Összes kibontása</tt> menüpontot, azután a felugró ablakban a <tt>👉Kibontás</tt> gombot. Kattints a kibontott 👉<tt>MSOffice2024-Hungarian-main</tt> mappában az 👉<tt>OfficeSTART</tt>-ra:
