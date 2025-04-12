@@ -13,7 +13,7 @@ Kattints a kibontott 👉<tt>MSOffice2024-Hungarian-main</tt> mappában az 👉<
 <b>Word, Excel, Powerpoint</b> telepítés indul... 
 Ennyi az egész 🥳
 
-<sup>✒️: alap: O365HomePremRetail massgrave.net</sup
+<sup>✒️: alap: O365HomePremRetail massgrave.net</sup>
 **********
 
 &#128294;&#128294;&#128294;
