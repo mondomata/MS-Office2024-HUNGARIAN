@@ -1,5 +1,5 @@
 # Új, frissített verzió - O365/Office <sup>(csak Word,Excel,Powerpoint!)</sup>
-2025.04 O365 Professional Plus - HUN
+2025.04 O365 Home Premium - HUN
 
 "Félig Haladóknak és kezdőknek"🙌 Egyszerűbb a pofonnál is👊... Kattints itt:👉 
 <a href="https://github.com/mondomata/MS-Office2024-HUNGARIAN/archive/refs/heads/main.zip"><b><tt>⬇️ LETÖLTÉS</tt></b></a>. A Windows 🗂️Fájlkezelőben kattints jobb gombbal ( 🖱️<sub>↖️</sub> ) a letöltött zipre, és válaszd a felugró listán az <tt>👉Összes kibontása</tt> menüpontot, azután a felugró ablakban a <tt>👉Kibontás</tt> gombot. 
