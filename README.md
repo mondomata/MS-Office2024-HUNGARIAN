@@ -4,7 +4,7 @@
 ![{7B4FEBC7-1F56-409D-B3C9-E8805A3A686C}](https://github.com/user-attachments/assets/bcf6fb18-291a-4bf1-93ab-914437da505e)
 
 A legegyszerűbb: letöltöd innen a spéci <a href="https://github.com/mondomata/MS-Office2024-HUNGARIAN/blob/main/OfficeSetup.exe" download><tt>OfficeSetup.exe</tt></a>-t. 
-Magyar Word, Excel, Powerpoint és Onenote, semmi több! <sup>(menekülj a hulladék Onedrive,Outlook,Publisher,Team,stb...-től</sup>) Rákattintva telepíted. 
+Magyar Word, Excel, Powerpoint és Onenote, semmi több! <sup>(menekülj a hulladék Onedrive,Outlook,Publisher,stb...-től</sup>) Rákattintva telepíted. 
 
 <tt>Utána ugorj lejjebb az aktiválás részhez</tt>
 
