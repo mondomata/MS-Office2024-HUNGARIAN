@@ -1,5 +1,8 @@
 # Új, frissített verzió - O365/Office <sup>(csak Word,Excel,Powerpoint!)</sup>
-2025.04 O365 Home Premium - HUN
+2025.04.12.
+
+![{7B4FEBC7-1F56-409D-B3C9-E8805A3A686C}](https://github.com/user-attachments/assets/bcf6fb18-291a-4bf1-93ab-914437da505e)
+
 
 "Félig Haladóknak és kezdőknek"🙌 Egyszerűbb a pofonnál is👊... Kattints itt:👉 
 <a href="https://github.com/mondomata/MS-Office2024-HUNGARIAN/archive/refs/heads/main.zip"><b><tt>⬇️ LETÖLTÉS</tt></b></a>. A Windows 🗂️Fájlkezelőben kattints jobb gombbal ( 🖱️<sub>↖️</sub> ) a letöltött zipre, és válaszd a felugró listán az <tt>👉Összes kibontása</tt> menüpontot, azután a felugró ablakban a <tt>👉Kibontás</tt> gombot. 
@@ -13,7 +16,7 @@ Kattints a kibontott 👉<tt>MSOffice2024-Hungarian-main</tt> mappában az 👉<
 <b>Word, Excel, Powerpoint</b> telepítés indul... 
 Ennyi az egész 🥳
 
-<sup>✒️: alap: O365HomePremRetail massgrave.net</sup>
+<sup>✒️: alap: Home2024Retail massgrave.net</sup>
 **********
 
 &#128294;&#128294;&#128294;
