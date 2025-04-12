@@ -1,6 +1,6 @@
-<Configuration ID="YourUniqueID">
+<Configuration ID="O365WordExcelPpointHUN20240412">
   <Add OfficeClientEdition="64" Channel="Current">
-    <Product ID="O365ProPlusRetail">
+    <Product ID="O365HomePremRetail">
       <Language ID="hu-HU" />
       <ExcludeApp ID="Access" />
       <ExcludeApp ID="Groove" />
