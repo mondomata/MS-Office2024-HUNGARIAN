@@ -25,8 +25,8 @@ Ennyi az egész 🥳
 ▶️https://tinyurl.hu/PHaI
 
 Angol nyelvű aktivátor:
-Nyisd meg a PowerShellt (nem CMD-t).  Nyomd egyszerre a (Windows)<kbd> 🪟 </kbd> és<kbd> X </kbd>billentyűket, válaszd a felugró listán a PowerShell vagy a Terminál lehetőséget.
-Másold ki és illeszd be az alábbi kódot a Powershell (Terminál) ablakba, majd nyomj enter billentyűt: 
+Nyisd meg a PowerShellt (nem CMD-t).  Nyomd le egyszerre a (Windows) <kbd> 🪟 </kbd> és <kbd> X </kbd> billentyűket, majd válaszd a felugró listán a PowerShell (Terminál) lehetőséget.
+Másold ki és illeszd be az alábbi kódot a Powershell (Terminál) ablakba, majd nyomj <kbd> Enter </kbd> billentyűt: 
  
  <b><code>   irm https://get.activated.win | iex   </code></b>
  
