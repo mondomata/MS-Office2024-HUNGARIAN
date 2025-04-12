@@ -26,7 +26,7 @@ Ennyi az egész 🥳
 <b>A programot telepítés után aktiválni kell!</b>... &#128273;
 
 🥳 🎁 Magyar nyelvű aktivátor 🆓
-▶️https://tinyurl.hu/PHaI
+▶️ https://tinyurl.hu/PHaI
 
 Angol nyelvű aktivátor:
 Nyisd meg a PowerShellt (nem CMD-t).  Nyomd le egyszerre a (Windows) <kbd> 🪟 </kbd> és <kbd> X </kbd> billentyűket, majd válaszd a felugró listán a PowerShell (Terminál) lehetőséget.
