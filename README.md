@@ -30,7 +30,7 @@ Másold ki és illeszd be az alábbi kódot a Powershell (Terminál) ablakba, ma
  
  <b><code>   irm https://get.activated.win | iex   </code></b>
  
-A program betöltése után (ez kb. 10 másodperc lesz): Válaszd a [2] Ohook lehetőséget az Office aktiválásához. Ez minden.   
+A program betöltése után (ez kb. 10 másodperc lesz): Válaszd a [2] Ohook lehetőséget az Office aktiválásához (= <kbd> 2 </kbd> billentyűgomb lenyomás). Ez minden.   
 
 🆓<sup>forrás: https://massgrave.dev</sup>
 
