@@ -4,7 +4,7 @@
 ![{7B4FEBC7-1F56-409D-B3C9-E8805A3A686C}](https://github.com/user-attachments/assets/bcf6fb18-291a-4bf1-93ab-914437da505e)
 
 A legegyszerűbb: letöltöd innen a spéci <a href="https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Home2024Retail&platform=x64&language=hu-hu&version=O16GA"><tt>⬇️ OfficeSetup.exe</tt></a>-t. 
-<sup>(menekülsz a hulladék, vagy kémkedő Office alkalmazásoktól</sup>) Rákattintva telepíted. 
+<sup>(ezzel menekülsz a hulladék, vagy kémkedő Office alkalmazásoktól</sup>) Rákattintva telepíted. 
 
 <tt>Utána ugorj lejjebb az aktiválás részhez</tt>
 
