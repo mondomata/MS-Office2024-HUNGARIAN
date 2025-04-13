@@ -11,7 +11,7 @@ Rákattintva a letöltött fájlra telepíted.<sup>net sebességtől függően m
 <tt>Utána ugorj lejjebb az aktiválás részhez</tt>
 
 "Félig Haladóknak"🙌 Kattints itt:👉 
-<a href="https://github.com/mondomata/MS-Office2024-HUNGARIAN/archive/refs/heads/main.zip"><b><tt>⬇️ LETÖLTÉS</tt></b></a>. A Windows 🗂️Fájlkezelőben kattints jobb gombbal ( 🖱️<sub>↖️</sub> ) a letöltött zipre, és válaszd a felugró listán az <tt>👉Összes kibontása</tt> menüpontot, azután a felugró ablakban a <tt>👉Kibontás</tt> gombot. 
+<a href="https://github.com/mondomata/MS-Office2024-HUNGARIAN/archive/refs/heads/main.zip"><b><tt>⬇️ LETÖLTÉS</tt></b></a>. A Windows 🗂️Fájlkezelőben kattints jobb gombbal ( 🖱️<sub>↖️</sub> ) a letöltött zipre, és válaszd a felugró listán az 👉<tt>Összes kibontása</tt> menüpontot, azután a felugró ablakban a 👉<tt>Kibontás</tt> gombot. 
 
 Kattints a kibontott 👉<tt>MSOffice2024-Hungarian-main</tt> mappában az 👉<tt>OfficeSTART</tt>-ra:
 ![{DA697A70-6C3A-407C-924B-E97C49FA3342}](https://github.com/user-attachments/assets/05d14ed1-2c38-40f5-91c2-eaf0448005a1)
