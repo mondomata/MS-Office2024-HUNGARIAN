@@ -8,7 +8,7 @@ A legegyszerűbb: letöltöd👉<a href="https://c2rsetup.officeapps.live.com/c2
 
 Rákattintva a letöltött fájlra telepíted.<sup>net sebességtől függően maga a telepítés kb. 3-5 percig tart</sup>
 
-<tt>Utána ugorj lejjebb az aktiválás részhez</tt>
+<tt>Utána ugorj a lap aljára az aktiválás részhez</tt>
 
 "Félig Haladóknak"🙌 Kattints itt:👉 
 <a href="https://github.com/mondomata/MS-Office2024-HUNGARIAN/archive/refs/heads/main.zip"><b><tt>⬇️ LETÖLTÉS</tt></b></a>. A Windows 🗂️Fájlkezelőben kattints jobb gombbal ( 🖱️<sub>↖️</sub> ) a letöltött zipre, és válaszd a felugró listán az 👉<tt>Összes kibontása</tt> menüpontot, azután a felugró ablakban a 👉<tt>Kibontás</tt> gombot. 
