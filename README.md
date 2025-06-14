@@ -29,7 +29,7 @@ Ennyi az egész 🥳
 
 Angol nyelvű aktivátor:
 Nyisd meg a PowerShellt (nem CMD-t).  Nyomd le egyszerre a (Win) <kbd>![windowsbill](https://github.com/user-attachments/assets/59c9e0ed-b6d5-4797-9d13-dc078c2245b2) </kbd> és <kbd> X </kbd> billentyűket (vagy Jobb egér gombbal kattints a Startmenüre), majd válaszd a felugró listán a PowerShell (Terminál) lehetőséget.
-Másold ki és illeszd be az alábbi kódot a Powershell (Terminál) ablakba, majd nyomj <kbd> Enter </kbd> billentyűt: 
+Másold ki és illeszd be az alábbi kódot egyetlen sorba a Powershell (Terminál) ablakba, majd nyomj <kbd> Enter </kbd> billentyűt: 
  
  <b><code> & ([ScriptBlock]::Create((irm https://get.activated.win))) /Ohook
 </code></b>
