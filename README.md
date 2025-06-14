@@ -37,5 +37,7 @@ Másold ki és illeszd be az alábbi kódot egyetlen sorba a Powershell (Termin�
 A program kb 1 perc alatt automatikusan lefut, a végén zöld sorban jelzi, hogy "...activated", tehát az office aktiválva lett. Ennyi.
 
 🆓<sup>forrás: https://massgrave.dev</sup>
+![Officeaktiv](https://github.com/user-attachments/assets/c7b016c4-276a-4ab6-a702-1c1779dfc084)
+
 
 Jó szórakozást, sok örömöt a programhoz...
