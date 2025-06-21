@@ -33,7 +33,7 @@ Nyisd meg a PowerShellt (nem CMD-t).  Nyomd le egyszerre a (Win) <kbd>![windowsb
 Másold ki és illeszd be az alábbi kódot egyetlen sorba a Powershell (Terminál) ablakba, majd nyomj <kbd> Enter </kbd> billentyűt: 
 
  ~~~
- & ([ScriptBlock]::Create((irm https://get.activated.win))) /Ohook</code>
+ & ([ScriptBlock]::Create((irm https://get.activated.win))) /Ohook
  ~~~
 A program kb 1 perc alatt automatikusan lefut, a végén zöld sorban jelzi, hogy "...activated", tehát az office aktiválva lett. Ennyi.
 
