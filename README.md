@@ -1,10 +1,10 @@
 # Új, frissített verzió - Office 2024 Home<sup>(csak Word, Excel, Powerpoint!)</sup>
-<tt>Update:2025.06.16. 
-Csak 1. módszer működik! Az aktiválás egyszerűbb lett!</tt>
+<tt>Update:2025.07.26.
+Csak 1 módszer! Az aktiválás egyszerűbb lett!</tt>
 
 ![{7B4FEBC7-1F56-409D-B3C9-E8805A3A686C}](https://github.com/user-attachments/assets/bcf6fb18-291a-4bf1-93ab-914437da505e)
 
-1. A legegyszerűbb: letöltöd ide kattintva a spéci 👉<a href="https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Home2024Retail&platform=x64&language=hu-hu&version=O16GA"><tt>⬇OfficeSetup.exe</tt></a>-t. 
+Letöltöd ide kattintva a spéci 👉<a href="https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Home2024Retail&platform=x64&language=hu-hu&version=O16GA"><tt>⬇OfficeSetup.exe</tt></a>-t. 
 <sup>(ezzel menekülsz a hulladék, vagy kémkedő Office alkalmazásoktól)</sup> 
 
 Rákattintva a letöltött fájlra telepíted.<sup>net sebességtől függően maga a telepítés kb. 3-5 percig tart</sup>
