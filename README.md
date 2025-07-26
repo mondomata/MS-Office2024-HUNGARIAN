@@ -1,4 +1,4 @@
-# Új, frissített verzió - Office 2024 Home<sup>(csak Word, Excel, Powerpoint!)</sup>
+# Új, frissített verzió - Office 2024 Home
 <tt>Update:2025.07.26.
 Csak 1 módszer! Az aktiválás egyszerűbb lett!</tt>
 
