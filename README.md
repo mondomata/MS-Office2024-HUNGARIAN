@@ -12,10 +12,7 @@ Rákattintva a letöltött fájlra telepíted.<sup>net sebességtől függően m
 <tt>Utána ugorj a lap aljára az aktiválás részhez</tt>
 
 ▶️...Sallangmentes, kizárólag a <b>magyar Word, Excel, Powerpoint</b> telepítés fut le... 
-Ennyi az egész 🥳
-
-<sup>✒️: alap: Home2024Retail massgrave.net</sup>
-**********
+Ennyi az egész.
 
 &#128294;&#128294;&#128294;
 <b>A programot telepítés után aktiválni kell!</b>
