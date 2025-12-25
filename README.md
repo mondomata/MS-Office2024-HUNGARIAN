@@ -1,4 +1,4 @@
-# Office 2024 Home
+# MS Office 2024 Home (hun)
 <tt>1 klikk install, 1 step aktiválás! Semmi macera, max. védelem és kényelem.🥳</tt>
 <sup>☝️Ha van telepítve másik MS office-od, azt uninstalláld először a Gépház/Telepített alkalmazások menüből.</sup>
  
