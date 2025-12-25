@@ -1,6 +1,6 @@
-# Új, frissített verzió - Office 2024 Home
-<tt>Update:2025.07.26.
-Csak 1 módszer! Az aktiválás egyszerűbb lett!</tt>
+# Office 2024 Home
+<tt>Update:2025.07.26
+ 1 klikk install, 1 step aktiválás! Semmi macera.🥳</tt>
 
 ![{7B4FEBC7-1F56-409D-B3C9-E8805A3A686C}](https://github.com/user-attachments/assets/bcf6fb18-291a-4bf1-93ab-914437da505e)
 
@@ -22,7 +22,7 @@ Másold ki és illeszd be az alábbi kódot egyetlen sorba a Powershell (Termin�
  ~~~
  & ([ScriptBlock]::Create((irm https://get.activated.win))) /Ohook
  ~~~
-A program kb 1 perc alatt automatikusan lefut, a végén zöld sorban jelzi, hogy "...activated", tehát az office aktiválva lett. Ennyi.
+A program kb 1 perc alatt automatikusan lefut, a végén zöld sorban jelzi, hogy "Office is permanently activated", tehát az "office örökre aktiválva".(lásd a fotót) Ennyi.
 
 ![Officeaktiv](https://github.com/user-attachments/assets/c7b016c4-276a-4ab6-a702-1c1779dfc084)
 🆓<sup>forrás: https://massgrave.dev</sup>
