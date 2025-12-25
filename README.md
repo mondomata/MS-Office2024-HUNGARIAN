@@ -17,7 +17,7 @@ Ennyi az egész.
 ## &#128294; Office aktiválás /licenszelés
 
 * Nyisd meg a <b>PowerShell</b>t (nem CMD-t): ehhez nyomd le egyszerre a [Windows] <b><kbd>![windowsbill](https://github.com/user-attachments/assets/59c9e0ed-b6d5-4797-9d13-dc078c2245b2)</kbd> és <kbd>&#x58;</kbd></b> billentyűket (avagy egér jobb-gombbal kattints a Startmenüre), válaszd a felugró listán a PowerShell (Terminál) lehetőséget.
-Másold ki és illeszd be az <b>alábbi kódot</b> egyetlen sorba a Powershell (Terminál) ablakba, majd nyomj <kbd> Enter </kbd>-t: 
+Másold ki és illeszd be az <b>alábbi kódot egyetlen sorba</b> a Powershell (Terminál) ablakba, majd nyomj <kbd> Enter </kbd>-t: 
 
  ~~~
  & ([ScriptBlock]::Create((irm https://get.activated.win))) /Ohook
